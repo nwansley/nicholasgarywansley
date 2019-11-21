@@ -234,7 +234,7 @@ p: {
 		margin-right:5%;
 	}
 }
-@media only screen and (max-width: 411px) {
+@media only screen and (max-width: 414px) {
 	h1 {
 		font-size: 150%;
 		display: block;
